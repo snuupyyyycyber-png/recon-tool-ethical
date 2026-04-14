@@ -45,7 +45,7 @@ Exemplo de arquivo ```scope.txt:```
 
 ## Instalação
 ```
-git clone [https://github.com/snuupyyyycyber-png/recon-tool-ethical)
+git clone https://github.com/snuupyyyycyber-png/recon-tool-ethical
 cd recon-tool-ethical
 chmod +x recontool.py
 ```
