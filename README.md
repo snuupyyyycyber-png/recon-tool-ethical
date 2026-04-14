@@ -79,13 +79,18 @@ Isso ajuda a filtrar automaticamente apenas o que está dentro do escopo autoriz
 
 ## ⚠️ Aviso Final
 
-Esta ferramenta foi projetada para auxiliar em testes de Bug Bounty, **desde que respeitadas as regras de cada programa**.
+Esta ferramenta realiza enumeração passiva automatizada de subdomínios.
 
-Ela é destinada apenas a pessoas que sabem o que estão fazendo.  
-O uso inadequado pode violar leis, termos de serviço ou regras específicas de programas de Bug Bounty.
+**Importante saber:**
 
-**Importante:**  
-Mesmo que a ferramenta funcione de forma ética na maioria dos programas, é responsabilidade do usuário verificar se o uso está de acordo com as regras do programa específico e com o escopo autorizado.
+- Alguns programas de Bug Bounty permitem o uso de ferramentas automatizadas de recon passivo.
+- **Programas grandes e rigorosos** (como Meta, Google, Microsoft, Apple e outros) geralmente **proíbem ou restringem fortemente** o uso de ferramentas automatizadas, mesmo em modo passivo.
 
-O autor não se responsabiliza por qualquer uso indevido desta ferramenta.  
+Por isso:
+- Sempre leia atentamente as regras do programa antes de usar qualquer ferramenta automatizada.
+- O que é aceito em um programa pode ser considerado violação em outro.
+- O uso desta ferramenta fica sob total responsabilidade do usuário.
+
+O autor não se responsabiliza por qualquer violação de regras, termos de serviço ou leis.
+
 Use com responsabilidade e ética.
