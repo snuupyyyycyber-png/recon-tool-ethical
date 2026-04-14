@@ -33,11 +33,10 @@ python3 recontool.py -d meta.com --scope-file scope.txt --passive-only```
 ```
 Exemplo de arquivo ```scope.txt:```
 ```txt
-meta.com
-*.meta.com
-*.facebook.com
-*.instagram.com
-api.meta.com
+exemplo.com
+*.exemplo.com
+api.exemplo.com
+test.exemplo.com
 ```
 
 # Opções Principais
