@@ -28,10 +28,17 @@ python3 recontool.py -d exemplo.com --passive-only
 ```
 
 ## Usando arquivo de escopo (altamente recomendado):
-```python3 recontool.py -d meta.com --scope-file scope.txt --passive-only```
-
+```bash
+python3 recontool.py -d meta.com --scope-file scope.txt --passive-only```
+```
 Exemplo de arquivo ```scope.txt:```
-
+```txt
+meta.com
+*.meta.com
+*.facebook.com
+*.instagram.com
+api.meta.com
+```
 
 # Opções Principais
 
@@ -44,7 +51,7 @@ Exemplo de arquivo ```scope.txt:```
 ```--outputDiretório``` onde os resultados serão salvos
 
 ## Instalação
-```
+```bash
 git clone https://github.com/snuupyyyycyber-png/recon-tool-ethical
 cd recon-tool-ethical
 chmod +x recontool.py
