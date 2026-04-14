@@ -62,6 +62,20 @@ Prefira o modo ```--passive-only```
 Sempre utilize ```--scope-file``` para evitar subdomínios fora do escopo
 Não use o modo ```--active``` em programas que proíbem automação pesada
 
+## 🚀 Como Usar
+
+### Comando básico (mais simples):
+
+```bash
+python3 recontool.py -d exemplo.com --passive-only
+```
+## Usando filtro de escopo (recomendado para maior precisão):
+```bash
+python3 recontool.py -d exemplo.com --scope-file scope.txt --passive-only
+```
+
+*Dica:* Você pode criar um arquivo ```scope.txt``` com os domínios e subdomínios permitidos (um por linha).
+Isso ajuda a filtrar automaticamente apenas o que está dentro do escopo autorizado.
 
 # Aviso Legal
 O autor desta ferramenta não se responsabiliza por qualquer uso indevido.
