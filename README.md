@@ -77,6 +77,10 @@ python3 recontool.py -d exemplo.com --scope-file scope.txt --passive-only
 *Dica:* Você pode criar um arquivo ```scope.txt``` com os domínios e subdomínios permitidos (um por linha).
 Isso ajuda a filtrar automaticamente apenas o que está dentro do escopo autorizado.
 
-# Aviso Legal
-O autor desta ferramenta não se responsabiliza por qualquer uso indevido.
+# ⚠️ Aviso Final
+
+Esta ferramenta é destinada apenas a pessoas que sabem o que estão fazendo.
+O uso inadequado pode violar leis, termos de serviço ou regras de programas de Bug Bounty.
+
+O autor não se responsabiliza por qualquer uso indevido desta ferramenta.
 Use com responsabilidade e ética.
