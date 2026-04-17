@@ -14,7 +14,7 @@ Foi desenvolvida especialmente para programas de Bug Bounty rigorosos, como o **
 Esta ferramenta deve ser usada **apenas** em:
 
 - Seus próprios laboratórios ou ambientes de teste
-- Programas de Bug Bounty com **autorização explícita**
+- Programas para ctfs com **autorização explícita**
 - Alvos nos quais você tem permissão por escrito
 
 **Nunca use em sistemas sem permissão.** Respeite sempre as regras do programa.
