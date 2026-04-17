@@ -1,0 +1,4 @@
+exemplo.com
+*.exemplo.com
+api.exemplo.com
+test.exemplo.com
