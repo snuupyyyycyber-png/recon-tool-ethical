@@ -29,7 +29,7 @@ python3 recontool.py -d exemplo.com --passive-only
 
 ## Usando arquivo de escopo (altamente recomendado):
 ```bash
-python3 recontool.py -d meta.com --scope-file scope.txt --passive-only```
+python3 recontool.py -d alvo.com --scope-file scope.txt --passive-only```
 ```
 Exemplo de arquivo ```scope.txt:```
 ```txt
